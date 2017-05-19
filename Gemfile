@@ -46,11 +46,7 @@ group :development do
 end
 
 group :production do
-<<<<<<< HEAD
-    gem 'pg', '2.0.0'
-=======
     gem 'pg', '0.18.4'
->>>>>>> 9c4e0bf0827eca3b86e19b1bd706a94b6f2e6498
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
